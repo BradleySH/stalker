@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/BradleySH/stalker/internal/routes"
+	"github.com/BradleySH/stalker/backend/internal/routes"
 )
 
 func main() {
